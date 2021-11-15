@@ -158,6 +158,9 @@ form{
     .lorem1{
         font-size:15px;
     }
+    form{
+        padding-top:200px;
+    }
 }
 @media (max-width:320px){
     nav{
@@ -177,6 +180,9 @@ form{
     }
     .lorem1{
         font-size:15px;
+    }
+     form{
+        padding-top:200px;
     }
 }
 
