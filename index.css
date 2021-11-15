@@ -162,7 +162,7 @@ form{
         padding-top:200px;
     }
 }
-@media  (min-width:280px) and (max-width:320px){
+@media (max-width:320px){
     nav{
         position: fixed;
         flex-direction:column;
