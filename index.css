@@ -193,16 +193,16 @@ form{
         align-items:flex-end;
     }
     #navbuttons{
-        font-size:15px;
+        font-size:10px;
     }
     #h1,#h2{
-        font-size:15px;
+        font-size:12px;
     }
     #name,#password,#mail{
-        font-size:15px;
+        font-size:12px;
     }
     .lorem1{
-        font-size:15px;
+        font-size:12px;
     }
      form{
         padding-top:200px;
