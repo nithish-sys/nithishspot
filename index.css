@@ -162,7 +162,30 @@ form{
         padding-top:200px;
     }
 }
-@media (max-width:320px){
+@media  (max-width:280px) and (max-width:320px){
+    nav{
+        position: fixed;
+        flex-direction:column;
+        justify-content:flex-end;
+        align-items:flex-end;
+    }
+    #navbuttons{
+        font-size:15px;
+    }
+    #h1,#h2{
+        font-size:15px;
+    }
+    #name,#password,#mail{
+        font-size:15px;
+    }
+    .lorem1{
+        font-size:15px;
+    }
+     form{
+        padding-top:200px;
+    }
+}
+@media (max-width:280px){
     nav{
         position: fixed;
         flex-direction:column;
